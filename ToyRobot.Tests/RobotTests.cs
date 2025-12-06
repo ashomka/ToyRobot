@@ -1,5 +1,3 @@
-using ToyRobot;
-
 namespace ToyRobot.Tests;
 
 public class RobotTests
